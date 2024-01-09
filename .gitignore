@@ -2,3 +2,4 @@ venv/
 __pycache__
 models-ad.py
 app-ad.py
+/templates/base.html
